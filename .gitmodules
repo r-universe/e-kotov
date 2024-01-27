@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/e-kotov/universe
+	url = https://github.com/e-kotov/e-kotov.r-universe.dev
 	branch = HEAD
 [submodule "wikimapR"]
 	path = wikimapR
