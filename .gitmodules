@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/e-kotov/e-kotov.r-universe.dev
 	branch = HEAD
+[submodule "rJavaEnv"]
+	path = rJavaEnv
+	url = https://github.com/e-kotov/rJavaEnv
 [submodule "wikimapR"]
 	path = wikimapR
 	url = https://github.com/e-kotov/wikimapR
