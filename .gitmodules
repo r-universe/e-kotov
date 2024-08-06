@@ -5,6 +5,9 @@
 [submodule "rJavaEnv"]
 	path = rJavaEnv
 	url = https://github.com/e-kotov/rJavaEnv
+[submodule "rang"]
+	path = rang
+	url = https://github.com/gesistsa/rang
 [submodule "wikimapR"]
 	path = wikimapR
 	url = https://github.com/e-kotov/wikimapR
