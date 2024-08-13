@@ -8,6 +8,9 @@
 [submodule "rang"]
 	path = rang
 	url = https://github.com/gesistsa/rang
+[submodule "spanishoddata"]
+	path = spanishoddata
+	url = https://github.com/Robinlovelace/spanishoddata
 [submodule "wikimapR"]
 	path = wikimapR
 	url = https://github.com/e-kotov/wikimapR
