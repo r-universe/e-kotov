@@ -13,7 +13,7 @@
 	url = https://github.com/gesistsa/rang
 [submodule "spanishoddata"]
 	path = spanishoddata
-	url = https://github.com/Robinlovelace/spanishoddata
+	url = https://github.com/rOpenSpain/spanishoddata
 [submodule "wikimapR"]
 	path = wikimapR
 	url = https://github.com/e-kotov/wikimapR
