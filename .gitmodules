@@ -2,18 +2,12 @@
 	path = .registry
 	url = https://github.com/e-kotov/e-kotov.r-universe.dev
 	branch = HEAD
-[submodule "flowmapblue"]
-	path = flowmapblue
-	url = https://github.com/FlowmapBlue/flowmapblue.R
 [submodule "rJavaEnv"]
 	path = rJavaEnv
 	url = https://github.com/e-kotov/rJavaEnv
 [submodule "rang"]
 	path = rang
 	url = https://github.com/gesistsa/rang
-[submodule "spanishoddata"]
-	path = spanishoddata
-	url = https://github.com/rOpenSpain/spanishoddata
 [submodule "wikimapR"]
 	path = wikimapR
 	url = https://github.com/e-kotov/wikimapR
