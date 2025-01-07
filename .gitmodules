@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/e-kotov/e-kotov.r-universe.dev
 	branch = HEAD
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/meztez/duckdb-r
 [submodule "mapineqr"]
 	path = mapineqr
 	url = https://github.com/e-kotov/mapineqr
