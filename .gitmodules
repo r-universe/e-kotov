@@ -5,6 +5,9 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/meztez/duckdb-r
+[submodule "layer"]
+	path = layer
+	url = https://github.com/marcosci/layer
 [submodule "mapineqr"]
 	path = mapineqr
 	url = https://github.com/e-kotov/mapineqr
