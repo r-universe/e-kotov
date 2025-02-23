@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "alboFr"]
 	path = alboFr
-	url = https://github.com//e-kotov/alboFr
+	url = https://github.com/e-kotov/alboFr
 [submodule "mapineqr"]
 	path = mapineqr
 	url = https://github.com/e-kotov/mapineqr
