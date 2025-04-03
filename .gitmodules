@@ -7,8 +7,9 @@
 	url = https://github.com/e-kotov/alboFr
 [submodule "mall"]
 	path = mall
-	url = https://github.com/e-kotov/mall/r
+	url = https://github.com/e-kotov/mall
 	branch = structured
+	subdir = r
 [submodule "mapineqr"]
 	path = mapineqr
 	url = https://github.com/e-kotov/mapineqr
@@ -18,6 +19,9 @@
 [submodule "rang"]
 	path = rang
 	url = https://github.com/gesistsa/rang
+[submodule "rdocdump"]
+	path = rdocdump
+	url = https://github.com/e-kotov/rdocdump
 [submodule "wikimapR"]
 	path = wikimapR
 	url = https://github.com/e-kotov/wikimapR
