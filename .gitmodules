@@ -5,6 +5,9 @@
 [submodule "alboFr"]
 	path = alboFr
 	url = https://github.com/e-kotov/alboFr
+[submodule "ducksf"]
+	path = ducksf
+	url = https://github.com/e-kotov/ducksf
 [submodule "mapineqr"]
 	path = mapineqr
 	url = https://github.com/e-kotov/mapineqr
