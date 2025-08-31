@@ -8,6 +8,9 @@
 [submodule "ducksf"]
 	path = ducksf
 	url = https://github.com/e-kotov/ducksf
+[submodule "gridmaker"]
+	path = gridmaker
+	url = https://github.com/e-kotov/gridmaker
 [submodule "mapineqr"]
 	path = mapineqr
 	url = https://github.com/e-kotov/mapineqr
