@@ -14,6 +14,9 @@
 [submodule "mapineqr"]
 	path = mapineqr
 	url = https://github.com/e-kotov/mapineqr
+[submodule "osrm.backend"]
+	path = osrm.backend
+	url = https://github.com/e-kotov/osrm.backend
 [submodule "r5rgui"]
 	path = r5rgui
 	url = https://github.com/e-kotov/r5rgui
