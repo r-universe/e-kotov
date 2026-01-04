@@ -5,9 +5,9 @@
 [submodule "alboFr"]
 	path = alboFr
 	url = https://github.com/e-kotov/alboFr
-[submodule "ducksf"]
-	path = ducksf
-	url = https://github.com/e-kotov/ducksf
+[submodule "duckspatial"]
+	path = duckspatial
+	url = https://github.com/Cidree/duckspatial
 [submodule "gridmaker"]
 	path = gridmaker
 	url = https://github.com/e-kotov/gridmaker
