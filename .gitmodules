@@ -5,6 +5,10 @@
 [submodule "alboFr"]
 	path = alboFr
 	url = https://github.com/e-kotov/alboFr
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/duckdb/duckdb-r
+	branch = next
 [submodule "duckspatial"]
 	path = duckspatial
 	url = https://github.com/Cidree/duckspatial
