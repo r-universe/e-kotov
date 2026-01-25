@@ -29,6 +29,9 @@
 [submodule "rdocdump"]
 	path = rdocdump
 	url = https://github.com/e-kotov/rdocdump
+[submodule "sx"]
+	path = sx
+	url = https://github.com/e-kotov/sx
 [submodule "tphconv"]
 	path = tphconv
 	url = https://github.com/e-kotov/tphconv
