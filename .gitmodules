@@ -14,6 +14,9 @@
 [submodule "mapineqr"]
 	path = mapineqr
 	url = https://github.com/e-kotov/mapineqr
+[submodule "nvdb2osmr"]
+	path = nvdb2osmr
+	url = https://github.com/e-kotov/nvdb2osmr
 [submodule "osrm.backend"]
 	path = osrm.backend
 	url = https://github.com/e-kotov/osrm.backend
