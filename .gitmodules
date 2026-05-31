@@ -20,6 +20,9 @@
 [submodule "osrm.backend"]
 	path = osrm.backend
 	url = https://github.com/e-kotov/osrm.backend
+[submodule "r5r"]
+	path = r5r
+	url = https://github.com/ipeaGIT/r5r
 [submodule "r5rgui"]
 	path = r5rgui
 	url = https://github.com/e-kotov/r5rgui
