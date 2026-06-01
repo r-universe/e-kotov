@@ -11,6 +11,10 @@
 [submodule "gridmaker"]
 	path = gridmaker
 	url = https://github.com/e-kotov/gridmaker
+[submodule "mapgl"]
+	path = mapgl
+	url = https://github.com/e-kotov/mapgl
+	branch = flowmap
 [submodule "mapineqr"]
 	path = mapineqr
 	url = https://github.com/e-kotov/mapineqr
