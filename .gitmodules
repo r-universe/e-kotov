@@ -8,6 +8,9 @@
 [submodule "duckspatial"]
 	path = duckspatial
 	url = https://github.com/Cidree/duckspatial
+[submodule "gps2gtfs"]
+	path = gps2gtfs
+	url = https://github.com/e-kotov/gps2gtfs
 [submodule "gridmaker"]
 	path = gridmaker
 	url = https://github.com/e-kotov/gridmaker
@@ -27,6 +30,7 @@
 [submodule "r5r"]
 	path = r5r
 	url = https://github.com/ipeaGIT/r5r
+	subdir = r-package
 [submodule "r5rgui"]
 	path = r5rgui
 	url = https://github.com/e-kotov/r5rgui
