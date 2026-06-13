@@ -17,7 +17,7 @@
 [submodule "mapgl"]
 	path = mapgl
 	url = https://github.com/e-kotov/mapgl
-	branch = flowmap
+	branch = flowmap-backup
 [submodule "mapineqr"]
 	path = mapineqr
 	url = https://github.com/e-kotov/mapineqr
