@@ -43,6 +43,10 @@
 [submodule "rdocdump"]
 	path = rdocdump
 	url = https://github.com/e-kotov/rdocdump
+[submodule "sfgpu"]
+	path = sfgpu
+	url = https://github.com/e-kotov/sfgpu
+	branch = dev
 [submodule "sx"]
 	path = sx
 	url = https://github.com/e-kotov/sx
